@@ -1,0 +1,18 @@
+.rubik-scribble-regular {
+    font-family: "Rubik Scribble", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    color: chartreuse;
+    text-align: center;
+    padding: 35px;
+    background-color: black;
+
+  }
+  .lobster-regular {
+    font-family: "Lobster", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: chartreuse;
+    text-align: center;
+    background-color: black;
+  }
